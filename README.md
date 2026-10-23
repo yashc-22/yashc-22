@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently working on a to-do website
+I am currently learning about Data Structures And Algorithm
 
 
 ## 🌐 Socials:

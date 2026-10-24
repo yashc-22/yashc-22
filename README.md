@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently learning about Data Structures And Algorithm
+I am currently learning about Data Structures And Algorithm in JAVA
 
 
 ## 🌐 Socials:
